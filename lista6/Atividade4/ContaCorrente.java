@@ -1,4 +1,4 @@
-package lista6.Atividade4;
+package lista6.atividade4;
 
 public class ContaCorrente extends Conta {
     public void atualizar(double taxa) {

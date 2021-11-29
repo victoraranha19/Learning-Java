@@ -1,4 +1,4 @@
-package lista7.Atividade2;
+package lista7.atividade2;
 
 public class Televisao {
     protected int volume;

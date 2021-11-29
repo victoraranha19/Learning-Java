@@ -1,4 +1,4 @@
-package lista5.Atividade6;
+package lista5.atividade6;
 
 public class AppConcatenaArray {
     public static void main(String[] args) {

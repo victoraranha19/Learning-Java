@@ -1,4 +1,4 @@
-package lista7.Atividade4;
+package lista7.atividade4;
 
 public class Vendedor extends Empregado{
     private int cotaPecas;

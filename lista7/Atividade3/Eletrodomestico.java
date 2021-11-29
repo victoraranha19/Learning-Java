@@ -1,4 +1,4 @@
-package lista7.Atividade3;
+package lista7.atividade3;
 
 public class Eletrodomestico {
     private boolean ligado;

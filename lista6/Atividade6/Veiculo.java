@@ -1,4 +1,4 @@
-package lista6.Atividade6;
+package lista6.atividade6;
 
 public class Veiculo {
     

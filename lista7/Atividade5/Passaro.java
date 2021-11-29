@@ -1,4 +1,4 @@
-package lista7.Atividade5;
+package lista7.atividade5;
 
 public class Passaro extends Animal {
     public Passaro(double massa, String tamanho) {

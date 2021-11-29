@@ -1,4 +1,4 @@
-package lista5.Atividade7;
+package lista5.atividade7;
 
 public class AppPalindromo {
     public static void main(String[] args) {

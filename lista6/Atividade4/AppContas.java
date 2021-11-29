@@ -1,4 +1,4 @@
-package lista6.Atividade4;
+package lista6.atividade4;
 
 public class AppContas {
     public static void main(String[] args) {

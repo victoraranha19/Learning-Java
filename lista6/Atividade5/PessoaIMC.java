@@ -1,4 +1,4 @@
-package lista6.Atividade5;
+package lista6.atividade5;
 
 public class PessoaIMC extends Pessoa {
     private double peso;

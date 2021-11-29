@@ -1,4 +1,4 @@
-package lista7.Atividade1;
+package lista7.atividade1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package lista7.Atividade5;
+package lista7.atividade5;
 
 public class Homem extends Animal {
     public Homem(double massa, String tamanho) {

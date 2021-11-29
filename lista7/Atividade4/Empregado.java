@@ -1,4 +1,4 @@
-package lista7.Atividade4;
+package lista7.atividade4;
 
 public class Empregado extends Pessoa {
     protected double salario;

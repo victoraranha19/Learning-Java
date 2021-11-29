@@ -1,4 +1,4 @@
-package lista6.Atividade4;
+package lista6.atividade4;
 
 public class Conta {
     protected double saldo;

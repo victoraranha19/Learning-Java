@@ -1,4 +1,4 @@
-package lista6.Atividade1;
+package lista6.atividade1;
 
 public class App {
     public static void main(String[] args) {

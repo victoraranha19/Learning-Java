@@ -1,4 +1,4 @@
-package lista6.Atividade5;
+package lista6.atividade5;
 
 public class Homem extends PessoaIMC {
     public Homem(String nome, String dataNasc, double peso, double altura) {

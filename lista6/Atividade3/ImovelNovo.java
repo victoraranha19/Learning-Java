@@ -1,4 +1,4 @@
-package lista6.Atividade3;
+package lista6.atividade3;
 
 public class ImovelNovo extends Imovel {
     public ImovelNovo(String end, double preco) {
