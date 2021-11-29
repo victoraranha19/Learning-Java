@@ -1,4 +1,4 @@
-package Lista2.Atividade4;
+package lista2.atividade4;
 
 public class TresNumeros {
     private float num1;

@@ -1,4 +1,4 @@
-package Lista2.Atividade1;
+package lista2.atividade1;
 
 import java.util.Scanner;
 
@@ -11,6 +11,7 @@ public class AppMediaNota {
         a.setNota1(sc.nextDouble());
         a.setNota2(sc.nextDouble());
         a.setNota3(sc.nextDouble());
+        sc.close();
 
         double media = a.calcularMedia();
 

@@ -1,4 +1,4 @@
-package Lista2.Atividade8;
+package lista2.atividade8;
 
 import java.util.Scanner;
 
@@ -11,6 +11,7 @@ public class AppTriangulo {
         float x = sc.nextFloat();
         float y = sc.nextFloat();
         float z = sc.nextFloat();
+        sc.close();
 
         if ((x+y) > z && (x+z) > y && (y+z) > x) {
             t.setLados(x, y, z);

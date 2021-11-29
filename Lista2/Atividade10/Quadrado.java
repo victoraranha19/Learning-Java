@@ -1,4 +1,4 @@
-package Lista2.Atividade10;
+package lista2.atividade10;
 
 public class Quadrado {
     private double lado;

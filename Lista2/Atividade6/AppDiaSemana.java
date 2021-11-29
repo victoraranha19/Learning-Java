@@ -1,4 +1,4 @@
-package Lista2.Atividade6;
+package lista2.atividade6;
 
 import java.util.Scanner;
 
@@ -8,6 +8,7 @@ public class AppDiaSemana {
 
         System.out.println("Digite um dia da semana, como numero:");
         int diaSemana = sc.nextInt();
+        sc.close();
 
         String dia = "";
         switch (diaSemana) {

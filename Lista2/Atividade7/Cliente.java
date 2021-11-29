@@ -1,4 +1,4 @@
-package Lista2.Atividade7;
+package lista2.atividade7;
 
 public class Cliente {
     private float salarioLiquido;

@@ -1,4 +1,4 @@
-package Lista2.Atividade9;
+package lista2.atividade9;
 
 import java.util.Scanner;
 
@@ -25,6 +25,7 @@ public class AppCalculaTempo {
         t2.setMinuto(sc.nextInt());
         System.out.print("dos segundos: ");
         t2.setSegundo(sc.nextInt());
+        sc.close();
 
         int dif = t2.getTempoTot() - t1.getTempoTot();
         System.out.print("\nDiferenca de tempo = " + dif + " segundo(s)");

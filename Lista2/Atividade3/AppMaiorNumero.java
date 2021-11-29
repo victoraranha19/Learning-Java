@@ -1,4 +1,4 @@
-package Lista2.Atividade3;
+package lista2.atividade3;
 
 import java.util.Scanner;
 
@@ -10,6 +10,7 @@ public class AppMaiorNumero {
         System.out.println("Digite dois numero:");
         num1 = sc.nextFloat();
         num2 = sc.nextFloat();
+        sc.close();
 
         float maior = num1 > num2 ? num1 : num2;
         System.out.println("Maior = " + maior);

@@ -1,4 +1,4 @@
-package Lista2.Atividade7;
+package lista2.atividade7;
 
 import java.util.Scanner;
 
@@ -13,6 +13,7 @@ public class AppEmprestimo {
         float descontos = sc.nextFloat();
         System.out.println("Digite o valor do emprestimo solicitado:");
         float emprestimo = sc.nextFloat();
+        sc.close();
 
         fulano.setSalario(salarioBruto, descontos);
 

@@ -1,4 +1,4 @@
-package Lista2.Atividade2;
+package lista2.atividade2;
 
 import java.util.Scanner;
 
@@ -9,6 +9,7 @@ public class AppNadador {
 
         System.out.println("Idade do nadador: ");
         fulano.setIdade(sc.nextInt());
+        sc.close();
 
         System.out.println("Categoria: " + fulano.getCategoria());
     }

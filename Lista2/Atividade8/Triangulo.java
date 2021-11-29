@@ -1,4 +1,4 @@
-package Lista2.Atividade8;
+package lista2.atividade8;
 
 public class Triangulo {
     private float lado1;

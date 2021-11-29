@@ -1,4 +1,4 @@
-package Lista2.Atividade9;
+package lista2.atividade9;
 
 public class Tempo {
     private int horas;

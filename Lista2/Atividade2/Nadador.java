@@ -1,4 +1,4 @@
-package Lista2.Atividade2;
+package lista2.atividade2;
 
 public class Nadador {
     private int idade;

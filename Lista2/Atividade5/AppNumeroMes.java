@@ -1,4 +1,4 @@
-package Lista2.Atividade5;
+package lista2.atividade5;
 
 import java.util.Scanner;
 
@@ -10,6 +10,7 @@ public class AppNumeroMes {
         System.out.println("(minusculo e sem caracteres especiais):");
         String mes = sc.next();
         int numMes;
+        sc.close();
 
         switch (mes) {
             case "janeiro":

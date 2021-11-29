@@ -1,4 +1,4 @@
-package Lista2.Atividade10;
+package lista2.atividade10;
 
 import java.util.Scanner;
 
@@ -15,6 +15,7 @@ public class AppQuadrado {
         q2.setLado(sc.nextDouble());
         System.out.println("Lado do quadrado 3: ");
         q3.setLado(sc.nextDouble());
+        sc.close();
 
         double maiorArea;
         double menorPerimetro;

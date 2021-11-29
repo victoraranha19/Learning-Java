@@ -1,4 +1,4 @@
-package Lista2.Atividade4;
+package lista2.atividade4;
 
 import java.util.Scanner;
 
@@ -11,6 +11,7 @@ public class AppOrdenaTres {
         list.setNumero1(sc.nextFloat());
         list.setNumero2(sc.nextFloat());
         list.setNumero3(sc.nextFloat());
+        sc.close();
 
         float maior = list.getMaior();
         float menor = list.getMenor();

@@ -1,4 +1,4 @@
-package Lista2.Atividade1;
+package lista2.atividade1;
 
 public class Aluno {
     private double nota1;
